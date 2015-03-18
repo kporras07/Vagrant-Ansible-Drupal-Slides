@@ -1,0 +1,6 @@
+h2.lowercase {
+  text-transform: none;
+}
+.reveal pre code {
+  padding-left: 2rem;
+}
